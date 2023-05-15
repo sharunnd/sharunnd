@@ -18,6 +18,8 @@
 
 ## My resume :- [Sharun-ND-Resume](https://drive.google.com/file/d/186-jrDQGmG8MTNWV1qRmwsoI8k0Iyv78/view?usp=share_link)
 ## My Portfolio :- [sharunnd](https://sharunnd.github.io/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharunnd)](https://git.io/streak-stats)
 <!--
 **sharunnd/sharunnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
