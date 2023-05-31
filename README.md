@@ -6,11 +6,9 @@
 <p align="center">
   <img alt="" src="https://user-images.githubusercontent.com/119393327/234069142-8c484f39-b017-4c96-aee2-98f740581c01.gif">
 </p>
-</html>
+
 
 - 🔭 I’m currently learning Full stack web devopment at masai School
-
-- 🤔 I’m looking for help with ...
 
 - 💬 Ask me about Data Structures and Algorithms, JavaScript, React, Redux and MongoDb
 
@@ -18,8 +16,11 @@
 
 ## My resume :- [Sharun-ND-Resume](https://drive.google.com/file/d/186-jrDQGmG8MTNWV1qRmwsoI8k0Iyv78/view?usp=share_link)
 ## My Portfolio :- [sharunnd](https://sharunnd.github.io/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharunnd)](https://git.io/streak-stats)
+  
+<p align="center">
+    <img alt="" src="https://github-readme-streak-stats.herokuapp.com?user=sharunnd">
+</p>
+</html>
 <!--
 **sharunnd/sharunnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
