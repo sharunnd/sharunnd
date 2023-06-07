@@ -16,6 +16,7 @@
 
 ## My resume :- [Sharun-ND-Resume](https://drive.google.com/file/d/186-jrDQGmG8MTNWV1qRmwsoI8k0Iyv78/view?usp=share_link)
 ## My Portfolio :- [sharunnd](https://sharunnd.github.io/)
+## Linkedin :- [Click here](https://www.linkedin.com/in/sharun-n-d-8351191b3/)
   
 <p align="center">
     <img alt="" src="https://github-readme-streak-stats.herokuapp.com?user=sharunnd">
