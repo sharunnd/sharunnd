@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: sharunnd11@gmail.com
 
-## My resume :- [Sharun-ND-Resume](https://drive.google.com/drive/folders/1HmI8ELHNq7nxSYIccfn1bioAHDF_niT1)
+## My resume :- [Sharun-ND-Resume](https://drive.google.com/file/d/186-jrDQGmG8MTNWV1qRmwsoI8k0Iyv78/view?usp=sharing)
 ## My Portfolio :- [sharunnd](https://sharunnd.github.io/)
 ## Linkedin :- [Click here](https://www.linkedin.com/in/sharun-n-d-8351191b3/)
   
