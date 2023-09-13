@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently learning Full stack web devopment at masai School
+- 🔭 I’m currently learning Full-stack web development at Masai School
 
-- 💬 Ask me about Data Structures and Algorithms, JavaScript, React, Redux and MongoDb
+- 💬 Ask me about Data Structures and Algorithms, JavaScript, React, Redux and MongoDB
 
 - 📫 How to reach me: sharunnd11@gmail.com
 
