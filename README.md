@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently learning Full-stack web development at Masai School
+- 🔭 I’m currently working at Ripik.AI in the position of Frontent Engineer
 
 - 💬 Ask me about Data Structures and Algorithms, JavaScript, React, Redux and MongoDB
 
