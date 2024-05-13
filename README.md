@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working at Ripik.AI in the position of Frontent Engineer
+- 🔭 I’m currently working at Ripik.AI in the position of Frontend Engineer
 
 - 💬 Ask me about Data Structures and Algorithms, JavaScript, React, Redux and MongoDB
 
